@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "notifications-internal",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
